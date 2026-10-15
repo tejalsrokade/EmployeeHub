@@ -56,19 +56,6 @@ Repository Layer
 MySQL Database
 
 
-## Project Structure
-EmployeeHub/
-├── employee-management/           # Spring Boot backend
-│   ├── src/
-│   └── pom.xml
-├── employee-management-frontend/  # React frontend
-│   ├── src/
-│   ├── public/
-│   └── package.json
-├── .gitignore
-└── README.md
-
-
 ## Prerequisites
 
 Install the following before running the project:
